@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "chart",
+    "name": "strapi-chart",
     "description": "Description of Chart plugin",
     "kind": "plugin",
-    "displayName": "Chart"
+    "displayName": "strapi-chart"
   },
   "dependencies": {
     "@strapi/design-system": "^1.6.3",
@@ -29,7 +29,7 @@
     "styled-components": "^5.3.6"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Saurabh Sen(https://github.com/saurabh-sen)"
   },
   "maintainers": [
     {
