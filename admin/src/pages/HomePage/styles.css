@@ -1,0 +1,15 @@
+.main {
+    color: white;
+    min-height: 80vh;
+    min-width: max-content;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 4rem auto;
+}
+.chartArea{
+    width: 600px;
+    height: 600px;
+}
